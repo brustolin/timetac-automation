@@ -1,10 +1,10 @@
 # Description
 
-*This is a tool to automate TimeTac actions*
+**This is a tool to automate TimeTac actions**
 
-Right now the only function it have is to approve your timesheet.
-It will approve up to the current day.
-Add the function in a task scheduler or chron to have it automate.
+Right now, the only function it has is to approve your timesheet. It will approve up to the current day. 
+
+Run this in a task scheduler or cron to automate it
 
 # Usage
 
